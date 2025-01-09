@@ -52,6 +52,8 @@
     <string name="button_copy">Copy</string>
     <string name="button_paste">Paste</string>
     <string name="call_tone">Notify ringtone of LSPatch</string>
+    <string name="MuteTone">(For Root) Mute incoming and outgoing calls</string>
+
     <!-- Menu -->
     <string name="switch_keep_unread">Keep unread</string>
     <!-- UNSENT CAP -->

@@ -36,7 +36,7 @@ public class LimeOptions {
     public Option outputCommunication = new Option("output_communication", R.string.switch_output_communication, false);
     public Option archived = new Option("archived_message", R.string.switch_archived, false);
     public Option callTone = new Option("call_tone", R.string.call_tone, false);
-
+    public Option MuteTone = new Option("MuteTone", R.string.MuteTone, false);
     public Option[] options = {
             removeVoom,
             removeWallet,
@@ -60,6 +60,7 @@ public class LimeOptions {
             blockTracking,
             stopVersionCheck,
             outputCommunication,
-            callTone
+            callTone,
+            MuteTone
     };
 }
